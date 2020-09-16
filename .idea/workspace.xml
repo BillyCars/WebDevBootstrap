@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc7f5915-e221-4eaa-95fd-525654f53ad5" name="Default Changelist" comment="" />
+    <list default="true" id="bc7f5915-e221-4eaa-95fd-525654f53ad5" name="Default Changelist" comment="commit1">
+      <change beforePath="$PROJECT_DIR$/../WebDevBootstrap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDevBootstrap1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../WebDevBootstrap1" />
+  </component>
   <component name="ProjectId" id="1hZ4JUKu52ZHH0Srx7faUjVSKoT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebDevBootstrap1" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -31,17 +37,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600205208447</updated>
-      <workItem from="1600205209494" duration="5541000" />
+      <workItem from="1600205209494" duration="6215000" />
     </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1600218898308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600218898308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="669" y="306" key="#Notifications" timestamp="1600218796276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="306" key="#Notifications/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1600218796276" />
     <state x="645" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600217475969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1600217475969" />
+    <state x="695" y="224" key="FileChooserDialogImpl" timestamp="1600218832283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="224" key="FileChooserDialogImpl/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1600218832283" />
+    <state x="770" y="380" key="Github.ShareDialog" timestamp="1600218992673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="380" key="Github.ShareDialog/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1600218992673" />
   </component>
 </project>
